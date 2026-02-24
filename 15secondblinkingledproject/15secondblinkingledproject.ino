@@ -35,7 +35,7 @@ void loop() {
   digitalWrite(greenLED,HIGH);
   digitalWrite(blueLED,HIGH);
   delay(dey);
-  // put your main code here, to run repeatedly:
+  
 digitalWrite(yellowLED,HIGH);
   digitalWrite(redLED,LOW);
   digitalWrite(greenLED,LOW);
